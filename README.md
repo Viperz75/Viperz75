@@ -1,5 +1,5 @@
 <img src="assets/name.png" style="height: 50%;">
-<p style="font-size: 20px;">I'm a Python & Flutter Developer. Besides, I also love to do Web-Development. I worked for 2years in this field. I am currently discovering more about how to improve my skills. I look forward on learning more and more.<p>
+<p style="font-size: 20px;">I'm a Python & Flutter Developer. Besides, I also love to do Web-Development. I worked for 2years in this field. I am currently discovering more about how to improve my skills. I look forward to learn more and more.<p>
 <br>📫 How to reach me: <br>
 <span><a href="https://www.facebook.com/niazmahmud.akash.7/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
 <a href="https://www.reddit.com/user/Viperz75"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png"/></a>
