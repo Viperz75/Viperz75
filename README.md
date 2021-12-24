@@ -6,8 +6,8 @@
 <a href="https://twitter.com/Viperz75"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/></a></span>
 
   -<p>Thank you for visiting my profile.</p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Viperz75.Viperz75)
+<br>
+![](https://visitor-badge.glitch.me/badge?page_id=Viperz75.Viperz75)
 <!---
 Viperz75/Viperz75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
