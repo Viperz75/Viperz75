@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Viperz75
-- 👀 I’m interested in Books, Games & Programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python Projects
+Hi, I’m Akash 👋 
+- <p>I'm a Python & Flutter Developer. Besides, I also love to do Web-Development. I worked for 2years in this field. I am currently discovering more about how to improve my skills. I look forward on learning more and more.<p>
 - 📫 How to reach me: <br>
 - <span><a href="https://www.facebook.com/niazmahmud.akash.7/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
 <a href="https://www.reddit.com/user/Viperz75"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png"/></a>
