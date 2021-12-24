@@ -10,8 +10,6 @@
 
 <p>Thank you for visiting my profile.</p>
 
-<br>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Viperz75.Viperz75.visitor-badge)
 
 
