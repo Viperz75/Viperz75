@@ -12,7 +12,7 @@
 
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Viperz75.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=Viperz75.Viperz75.visitor-badge)
 
 
 <!---
