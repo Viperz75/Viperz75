@@ -2,7 +2,7 @@
 - 👀 I’m interested in Books, Games & Programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me: <a href="https://www.facebook.com/niazmahmud.akash.7/">Facebook </a>,<a href="https://www.reddit.com/user/Viperz75"> Reddit</a>
+- 📫 How to reach me: <a href="https://www.facebook.com/niazmahmud.akash.7/"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/> </a>,<a href="https://www.reddit.com/user/Viperz75"> Reddit</a>
 
 <!---
 Viperz75/Viperz75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
