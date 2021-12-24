@@ -1,4 +1,4 @@
-<img src="assets/Screenshot 2021-12-24 123723.png">
+<img src="assets/Screenshot 2021-12-24 123723.png" style="height: 50%;">
 <p style="font-size: 16px;">I'm a Python & Flutter Developer. Besides, I also love to do Web-Development. I worked for 2years in this field. I am currently discovering more about how to improve my skills. I look forward on learning more and more.<p>
 <br>📫 How to reach me: <br>
 <span><a href="https://www.facebook.com/niazmahmud.akash.7/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
