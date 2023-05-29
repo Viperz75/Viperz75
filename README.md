@@ -1,5 +1,5 @@
 <img src="assets/my_name.png" style="height: 50%; width: 200%; border-radius: 5px;">
-<p style="font-size: 20px;">I'm a Python & Flutter Developer. Besides, I also love to do Web-Development. I worked for 2years in this field. I am currently discovering more about how to improve my skills. I'm looking forward to learning more and more.<p>
+<p style="font-size: 20px;">👋 Hello there! I'm Akash, a passionate developer on a mission to create awesome software. 💻 I love turning ideas into reality through elegant lines of code. Whether it's crafting intuitive web applications or building robust back-end systems, I enjoy the thrill of problem-solving and creating meaningful experiences. Let's connect and collaborate on exciting projects! 🚀<p>
 <br>
 📫 How to reach me: 
 <br>
